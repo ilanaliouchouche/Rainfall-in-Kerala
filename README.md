@@ -1,4 +1,3 @@
-Dans le cadre de mon projet de bio-informatique, j'ai eu la chance de pouvoir travailler sur la magnifique région du Kerala.
+As part of my bioinformatics project, I had the chance to work on the beautiful region of Kerala.
 
-Le notebook est le premier fichier affiché au dessus "IBI_ILAN_MARWAN_YOUSSEF (1).ipynb", les heatmaps sur la carte du Kerala
-ne sont pas visibles directement depuis GitHub.
+The notebook is the first file displayed above "IBI_ILAN_MARWAN_YOUSSEF (1).ipynb", the heatmaps on the map of Kerala are not visible directly from GitHub
